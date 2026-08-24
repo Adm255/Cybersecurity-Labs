@@ -21,15 +21,56 @@ Cybersecurity student at **Adventist University of Central Africa (AUCA)**.
 - [ ] PostgreSQL Default Credentials
 - [ ] UnrealIRCd Backdoor
 - [ ] Tomcat Manager Deploy
+- [ ] Windows XP (MS17-010)
 
 ---
 
 ## 🛠️ Tools I Use
-- **Pentesting:** Metasploit, Nmap, Netdiscover
-- **Web:** Burp Suite, Nikto, SQLmap
-- **Cracking:** John the Ripper, Hashcat
-- **OS:** Kali Linux, Ubuntu, Windows
+
+| Category | Tools |
+|----------|-------|
+| **Pentesting** | Metasploit, Nmap, Netdiscover |
+| **Web Security** | Burp Suite, Nikto, SQLmap |
+| **Password Cracking** | John the Ripper, Hashcat |
+| **Operating Systems** | Kali Linux, Ubuntu, Windows |
 
 ---
 
 ## 📁 Repository Structure
+
+```
+Cybersecurity-Labs/
+├── exploits/          # Step-by-step exploit guides
+├── reports/           # Professional pentest reports
+├── screenshots/       # Proof of concepts
+├── scripts/           # Custom automation scripts
+└── notes/             # Learning resources
+```
+
+---
+
+## 📸 Proof of Concepts
+
+![Samba Exploit](screenshots/samba_shell.png)
+
+---
+
+## 🔗 Connect With Me
+
+- **GitHub:** [Adm255](https://github.com/Adm255)
+- **LinkedIn:** [Adam Annour Idriss](https://www.linkedin.com/in/adam-annour-idriss)
+- **Email:** adamannourannouridriss@gmail.com
+
+---
+
+## 📌 Future Plans
+- [ ] Complete 5 exploits on Metasploitable 2
+- [ ] Complete 10 Hack The Box machines
+- [ ] Build custom pentesting scripts in Python
+- [ ] Earn CompTIA Security+ certification
+
+---
+
+> *"The best defense is a good offense."*
+
+*Last Updated: August 2026*
