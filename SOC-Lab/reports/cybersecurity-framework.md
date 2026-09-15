@@ -11,19 +11,40 @@ Because the organization has a limited cybersecurity budget of 10,000,000 FRW, t
 
 ## 2. Recommended Framework
 
-Adam's Company Limited will adopt the NIST Cybersecurity Framework (NIST CSF) as the foundation of its cybersecurity program.
+Adam's Company Limited will adopt the NIST Cybersecurity Framework 2.0 (NIST CSF 2.0) as the foundation of its cybersecurity program.
 
-The framework is organized around five core functions:
+The framework is organized around six core functions:
 
-1. Identify
-2. Protect
-3. Detect
-4. Respond
-5. Recover
+1. Govern
+2. Identify
+3. Protect
+4. Detect
+5. Respond
+6. Recover
 
-These functions provide a continuous approach to managing cybersecurity risks.
+These functions provide a structured approach for managing cybersecurity risks. The Govern function provides overall direction and oversight across the other functions.
 
-## 3. Identify
+## 3. Govern
+
+The organization must establish and maintain the strategy, policies, roles, responsibilities, and oversight needed to manage cybersecurity risk effectively.
+
+### Key activities
+
+- Establish cybersecurity policies and organizational requirements.
+- Define cybersecurity roles and responsibilities.
+- Establish management accountability for cybersecurity.
+- Define cybersecurity risk priorities and acceptable risk levels.
+- Ensure cybersecurity supports business objectives.
+- Consider legal, regulatory, and contractual requirements.
+- Establish requirements for third-party and supplier security.
+- Review cybersecurity performance through SOC reports and security metrics.
+- Provide appropriate resources for cybersecurity activities.
+
+### Expected outcome
+
+The organization has clear cybersecurity direction, accountability, policies, and management oversight.
+
+## 4. Identify
 
 The organization must understand its assets, cybersecurity risks, and security requirements.
 
@@ -41,7 +62,7 @@ The organization must understand its assets, cybersecurity risks, and security r
 
 The organization understands what it needs to protect and which risks require the highest priority.
 
-## 4. Protect
+## 5. Protect
 
 The organization must implement safeguards to reduce the likelihood and impact of cybersecurity incidents.
 
@@ -63,7 +84,7 @@ The organization must implement safeguards to reduce the likelihood and impact o
 
 Critical systems, information, and users have appropriate preventive security controls.
 
-## 5. Detect
+## 6. Detect
 
 The organization must continuously monitor its environment and identify suspicious activities as early as possible.
 
@@ -87,7 +108,7 @@ The organization must continuously monitor its environment and identify suspicio
 
 Potential threats and security incidents are detected and reported to the SOC for investigation.
 
-## 6. Respond
+## 7. Respond
 
 The organization must have defined procedures for handling confirmed cybersecurity incidents.
 
@@ -116,7 +137,7 @@ Preparation
 
 Security incidents are handled in a controlled, documented, and timely manner.
 
-## 7. Recover
+## 8. Recover
 
 The organization must restore normal operations after a cybersecurity incident.
 
@@ -134,40 +155,47 @@ The organization must restore normal operations after a cybersecurity incident.
 
 The organization can recover from cybersecurity incidents while minimizing business disruption.
 
-## 8. Framework Governance
+## 9. Framework Governance
 
-Management is responsible for ensuring that the cybersecurity framework is supported by appropriate resources, policies, and responsibilities.
+Management is responsible for ensuring that the cybersecurity framework is supported by appropriate resources, policies, responsibilities, and risk oversight.
 
 The SOC and IT teams are responsible for implementing technical and operational security controls.
 
 Employees are responsible for following organizational security policies and reporting suspected security incidents.
 
-The framework should be reviewed regularly and updated when there are significant changes to the organization's systems, risks, technologies, or business requirements.
+The framework should be reviewed regularly and updated when there are significant changes to the organization's systems, risks, technologies, business requirements, or regulatory obligations.
 
-## 9. Framework Implementation at Adam's Company
+## 10. Framework Implementation at Adam's Company
 
-The NIST functions will be connected to the organization's SOC as follows:
+The NIST CSF 2.0 functions will be connected to the organization's cybersecurity program and SOC as follows:
 
-| NIST Function | Company Implementation |
+| NIST CSF 2.0 Function | Company Implementation |
 |---|---|
+| Govern | Cybersecurity policies, roles and responsibilities, risk oversight, management reporting |
 | Identify | Asset inventory, risk assessment, vulnerability management |
 | Protect | MFA, access control, firewall, endpoint security, backups |
 | Detect | Wazuh, Suricata, centralized logging and monitoring |
 | Respond | Incident response procedures, SOC analysts, IRIS |
 | Recover | Backups, system restoration and recovery procedures |
 
-## 10. Continuous Improvement
+The Govern function provides direction and oversight across the entire cybersecurity program, while the other functions support the operational management of cybersecurity risk.
+
+## 11. Continuous Improvement
 
 Cybersecurity is treated as a continuous process rather than a one-time activity.
 
 The organization will use security incidents, vulnerability assessments, SOC metrics, audit findings, and lessons learned to continuously improve its cybersecurity controls.
 
-The overall security cycle is:
+The overall operational security cycle is:
 
 **Identify → Protect → Detect → Respond → Recover → Improve**
 
-## 11. Conclusion
+Governance provides continuous oversight and direction across this cycle.
 
-The NIST Cybersecurity Framework provides Adam's Company Limited with a structured and practical foundation for managing cybersecurity risks.
+## 12. Conclusion
+
+The NIST Cybersecurity Framework 2.0 provides Adam's Company Limited with a structured and practical foundation for managing cybersecurity risks.
 
 By combining the framework with security policies, appropriate technical controls, a centralized SOC, trained personnel, and cost-effective technologies, the organization can improve its ability to prevent, detect, respond to, and recover from cybersecurity incidents within its available resources.
+
+The framework also establishes clear management oversight through the Govern function, helping ensure that cybersecurity remains aligned with business objectives and organizational risk priorities.

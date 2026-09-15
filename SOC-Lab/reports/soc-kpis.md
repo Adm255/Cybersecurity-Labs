@@ -195,15 +195,18 @@ KPI results should be used to:
 
 Targets may be adjusted as the organization develops greater cybersecurity maturity.
 
-## 13. KPI-to-NIST Alignment
+## 13. KPI-to-NIST CSF 2.0 Alignment
 
-| NIST Function | Relevant KPIs |
+| NIST CSF 2.0 Function | Relevant KPIs |
 |---|---|
-| Identify | Vulnerability remediation and asset monitoring coverage |
+| Govern | KPI reporting, management oversight, and security improvement |
+| Identify | Vulnerability remediation and security monitoring coverage |
 | Protect | Security awareness and backup performance |
 | Detect | MTTD and monitoring coverage |
 | Respond | MTTR and alert resolution rate |
 | Recover | Backup success rate and recovery testing |
+
+The Govern function provides management oversight of cybersecurity performance and ensures that KPI results support risk management, security priorities, and continuous improvement.
 
 ## 14. Conclusion
 
