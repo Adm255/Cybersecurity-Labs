@@ -13,9 +13,11 @@ The SOC should combine appropriate technology, trained personnel, clear security
 
 The organization should formally adopt the NIST Cybersecurity Framework as the foundation of its cybersecurity program.
 
-The five core functions should guide the organization's security activities:
+The six core functions should guide the organization's security activities:
 
-**Identify → Protect → Detect → Respond → Recover**
+Govern → Identify → Protect → Detect → Respond → Recover
+
+The Govern function provides overall cybersecurity direction, management oversight, risk governance, and accountability across the other functions.
 
 This provides a structured approach for managing cybersecurity risks and continuously improving security.
 
